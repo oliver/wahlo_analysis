@@ -1,0 +1,8 @@
+name: example-environment
+channels:
+  - conda-forge
+  - ostrokach-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - graph-tool
